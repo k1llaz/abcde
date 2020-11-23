@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: alsdafss
+  description: sdfsdf
+  annotations: 
+    github.com/project-slug: k1llaz/abcde
+    backstage.io/github-actions-id: k1llaz/abcde
+spec:
+  type: service
+  lifecycle: experimental
+  owner: jklapacz
